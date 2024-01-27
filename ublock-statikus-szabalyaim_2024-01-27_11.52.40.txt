@@ -1,0 +1,30 @@
+! 2024-01-27 https://forum.release-apk.com
+forum.release-apk.com##.darken
+forum.release-apk.com###phpbb-aJHwDeoSqLhW
+
+! 2024-01-27 https://ncore.pro
+ncore.pro###kereses_mezo > .hr_stuff
+ncore.pro##.torrent_lenyilo_tartalom > div.hr_stuff
+
+! 2024-01-27 https://www.scribd.com
+scribd.com##._1X3Vjr._1A5tGG
+scribd.com##._1GKTHt.GridContainer-module_wrapper__7Rx6L
+scribd.com##.read_free_button.ReadFreeButton-module_wrapper__1-jez.PrimaryButton-module_s__8jzng.PrimaryButton-module_default__Bd6o3.PrimaryButton-module_wrapper__rm4pX
+scribd.com##.document._1-5UbK
+scribd.com##._3rWATl.e6sw05
+||s-f.scribdassets.com/webpack/assets/images/fallback_ads/ad_free_docs/afd_300x250_en@1x.63b3f0e2.png$image
+scribd.com##.H_z2i3
+scribd.com###outer_page_3 > .promo_div > ._1qNr2d > ._3DzOla._140Ouo
+scribd.com##.text_layer:style(text-shadow: black 0px 0px 0px !important;)
+scribd.com##.promo
+scribd.com##.entered.success.flash
+
+! 2024-01-27 telex.hu
+telex.hu##footer:matches-path(/^/$/)
+telex.hu##.layout__item:not(div:nth-child(2)):matches-path(/^/$/)
+telex.hu##.after__block:upward(2):matches-path(/^/$/)
+telex.hu##.article-topics:matches-path(/^/$/)
+telex.hu###__layout > .main--t > div:nth-of-type(3) > .main-container > .subcontainer > .cl-container > .layout > .layout__item:nth-of-type(13) > .layout14a.listing--otp.listing.block > .layout__content
+telex.hu###__layout > .main--t > div:nth-of-type(3) > .main-container > .subcontainer > .cl-container > .layout > .layout__item:nth-of-type(14) > .layout14b.listing--holdblog.listing.block
+telex.hu###__layout > .main--t > div:nth-of-type(3) > .main-container > .subcontainer > .cl-container > .layout > .layout__item:nth-of-type(15) > .layout14c.listing--bunteto.listing.block
+
