@@ -1,3 +1,14 @@
+![Adblock Plus 2.0]
+! Checksum: 
+! Diff-Path: 
+! Title: Saját statikus szűrő
+! Description: Saját statikus szűrő
+! Version: 0.1.1
+! TimeUpdated: 2024-01-27
+! Expires: 
+! Homepage: 
+! License: 
+
 ! 2024-01-27 https://forum.release-apk.com
 forum.release-apk.com##.darken
 forum.release-apk.com###phpbb-aJHwDeoSqLhW
@@ -27,4 +38,3 @@ telex.hu##.article-topics:matches-path(/^/$/)
 telex.hu###__layout > .main--t > div:nth-of-type(3) > .main-container > .subcontainer > .cl-container > .layout > .layout__item:nth-of-type(13) > .layout14a.listing--otp.listing.block > .layout__content
 telex.hu###__layout > .main--t > div:nth-of-type(3) > .main-container > .subcontainer > .cl-container > .layout > .layout__item:nth-of-type(14) > .layout14b.listing--holdblog.listing.block
 telex.hu###__layout > .main--t > div:nth-of-type(3) > .main-container > .subcontainer > .cl-container > .layout > .layout__item:nth-of-type(15) > .layout14c.listing--bunteto.listing.block
-
