@@ -10,8 +10,9 @@
 ! License: 
 
 ! 2024-01-27 https://forum.release-apk.com
-forum.release-apk.com##.darken
+forum.release-apk.com###darken
 forum.release-apk.com###phpbb-aJHwDeoSqLhW
+forum.release-apk.com##.cc-color-override--1687565279.cc-bottom.cc-theme-classic.cc-type-info.cc-floating.cc-window
 
 ! 2024-01-27 https://ncore.pro
 ncore.pro###kereses_mezo > .hr_stuff
