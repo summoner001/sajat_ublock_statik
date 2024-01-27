@@ -3,7 +3,7 @@
 ! Diff-Path: 
 ! Title: Saját statikus szűrő
 ! Description: Saját statikus szűrő
-! Version: 0.1.1
+! Version: 0.1.2
 ! TimeUpdated: 2024-01-27
 ! Expires: 
 ! Homepage: 
@@ -29,6 +29,13 @@ scribd.com###outer_page_3 > .promo_div > ._1qNr2d > ._3DzOla._140Ouo
 scribd.com##.text_layer:style(text-shadow: black 0px 0px 0px !important;)
 scribd.com##.promo
 scribd.com##.entered.success.flash
+scribd.com##._1kk3qd.GridContainer-module_wrapper_7Rx6L-
+scribd.com##._2vShLU._32uY1I
+scribd.com##._1Y6cNc.GridContainer-module_wrapper_7Rx6L-
+scribd.com##._2sNAJW.GridContainer-module_wrapper__7Rx6L
+scribd.com##.hH8-Dc
+scribd.com##._1OkeM5.GridContainer-module_wrapper_7Rx6L-
+scribd.com##._1I3SdP
 
 ! 2024-01-27 telex.hu
 telex.hu##footer:matches-path(/^/$/)
