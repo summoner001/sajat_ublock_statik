@@ -17,6 +17,8 @@ forum.release-apk.com##.cc-color-override--1687565279.cc-bottom.cc-theme-classic
 ! 2024-01-27 https://ncore.pro
 ncore.pro###kereses_mezo > .hr_stuff
 ncore.pro##.torrent_lenyilo_tartalom > div.hr_stuff
+ncore.pro##.infocsik
+ncore.pro###pager_top > .premium
 
 ! 2024-01-27 https://www.scribd.com
 scribd.com##._1X3Vjr._1A5tGG
