@@ -49,6 +49,8 @@ scribd.com##div.GridColumn-module_standard_xxs_2__D-kka.GridColumn-module_standa
 scribd.com##.full_container
 scribd.com##._35Otjh.Footer-module_wrapper__7jj0T
 scribd.com##.auto__doc_page_webpack_doc_page_preview_message.between_page_module.only_ie6_border.outer_page.page_missing_explanation
+scribd.com##._3_CeGO
+scribd.com##.Footer-module_wrapper__7jj0T
 
 ! 2024-01-27 telex.hu
 telex.hu##footer:matches-path(/^/$/)
