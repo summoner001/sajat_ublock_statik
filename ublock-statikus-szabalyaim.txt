@@ -21,7 +21,7 @@ ncore.pro##.torrent_lenyilo_tartalom > div.hr_stuff
 ncore.pro##.infocsik
 ncore.pro###pager_top > .premium
 
-! 2024-01-27 https://www.scribd.com
+! 2024-01-31 https://www.scribd.com
 scribd.com##._1X3Vjr._1A5tGG
 scribd.com##._1GKTHt.GridContainer-module_wrapper__7Rx6L
 scribd.com##.read_free_button.ReadFreeButton-module_wrapper__1-jez.PrimaryButton-module_s__8jzng.PrimaryButton-module_default__Bd6o3.PrimaryButton-module_wrapper__rm4pX
@@ -40,6 +40,15 @@ scribd.com##._2sNAJW.GridContainer-module_wrapper__7Rx6L
 scribd.com##.hH8-Dc
 scribd.com##._1OkeM5.GridContainer-module_wrapper_7Rx6L-
 scribd.com##._1I3SdP
+! 2024-01-31 https://www.scribd.com
+scribd.com##.what_is_scribd_section.nav_item
+scribd.com##.desktop_layout.wrapper__doc_page_shared_recommender_list
+scribd.com##.recommender_title
+scribd.com##.collapsed.auto__doc_page_webpack_doc_page_shared_carousels_recommender_carousel.recommender_carousel
+scribd.com##div.GridColumn-module_standard_xxs_2__D-kka.GridColumn-module_standard_xs_2__v6tq7.GridColumn-module_standard_s_2__lGI6L.GridColumn-module_standard_m_2__n0Lao.GridColumn-module_standard_l_2__2sa5L.GridColumn-module_standard_xl_2__2nLVZ.GridColumn-module_hide_below_m__-PoVO.GridColumn-module_wrapper__soqyu:nth-of-type(5)
+scribd.com##.full_container
+scribd.com##._35Otjh.Footer-module_wrapper__7jj0T
+scribd.com##.auto__doc_page_webpack_doc_page_preview_message.between_page_module.only_ie6_border.outer_page.page_missing_explanation
 
 ! 2024-01-27 telex.hu
 telex.hu##footer:matches-path(/^/$/)
