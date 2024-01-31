@@ -39,6 +39,26 @@ scribd.com##._2sNAJW.GridContainer-module_wrapper__7Rx6L
 scribd.com##.hH8-Dc
 scribd.com##._1OkeM5.GridContainer-module_wrapper_7Rx6L-
 scribd.com##._1I3SdP
+scribd.com##.D05rbD > div
+||s-f.scribdassets.com/webpack/assets/images/fallback_ads/ad_free_docs/afd_336x280_en@1x.f130bc0c.png$image
+scribd.com##._3smCP0
+scribd.com##li._2goSOb:nth-of-type(4)
+scribd.com##li._2goSOb:nth-of-type(8)
+scribd.com##li._2goSOb:nth-of-type(12)
+scribd.com##li._2goSOb:nth-of-type(16)
+scribd.com##li._2goSOb:nth-of-type(20)
+scribd.com##li._2goSOb:nth-of-type(24)
+scribd.com##li._2goSOb:nth-of-type(28)
+scribd.com##li._2goSOb:nth-of-type(32)
+scribd.com##li._2goSOb:nth-of-type(36)
+scribd.com##.auto__doc_page_webpack_doc_page_body_static_promo_study
+scribd.com##div.GridColumn-module_standard_xxs_2__D-kka.GridColumn-module_standard_xs_2__v6tq7.GridColumn-module_standard_s_2__lGI6L.GridColumn-module_standard_m_2__n0Lao.GridColumn-module_standard_l_2__2sa5L.GridColumn-module_standard_xl_2__2nLVZ.GridColumn-module_hide_below_m__-PoVO.GridColumn-module_wrapper__soqyu:nth-of-type(5)
+scribd.com##._35Otjh.Footer-module_wrapper__7jj0T
+scribd.com##._3_CeGO
+scribd.com##.Footer-module_wrapper__7jj0T
+scribd.com##li.what_is_scribd_section.nav_item:nth-of-type(1)
+scribd.com##li.what_is_scribd_section.nav_item:nth-of-type(2)
+scribd.com##.collapsed.auto__doc_page_webpack_doc_page_shared_carousels_recommender_carousel.recommender_carousel
 
 ! 2024-01-27 telex.hu
 telex.hu##footer:matches-path(/^/$/)
