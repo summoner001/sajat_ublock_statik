@@ -63,3 +63,6 @@ telex.hu##.article-topics:matches-path(/^/$/)
 telex.hu###__layout > .main--t > div:nth-of-type(3) > .main-container > .subcontainer > .cl-container > .layout > .layout__item:nth-of-type(13) > .layout14a.listing--otp.listing.block > .layout__content
 telex.hu###__layout > .main--t > div:nth-of-type(3) > .main-container > .subcontainer > .cl-container > .layout > .layout__item:nth-of-type(14) > .layout14b.listing--holdblog.listing.block
 telex.hu###__layout > .main--t > div:nth-of-type(3) > .main-container > .subcontainer > .cl-container > .layout > .layout__item:nth-of-type(15) > .layout14c.listing--bunteto.listing.block
+
+! 2024-02-10 https://www.openstreetmap.org
+www.openstreetmap.org##.p-3.welcome
