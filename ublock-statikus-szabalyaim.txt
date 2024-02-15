@@ -66,3 +66,10 @@ telex.hu###__layout > .main--t > div:nth-of-type(3) > .main-container > .subcont
 
 ! 2024-02-10 https://www.openstreetmap.org
 www.openstreetmap.org##.p-3.welcome
+
+! 2024-02-15 https://parts.jcb.com
+parts.jcb.com##._show.price-promise.add-to-popup.changelog.modal-popup > .modal-inner-wrap > .modal-content
+parts.jcb.com##._show.price-promise.add-to-popup.changelog.modal-popup > .modal-inner-wrap > .modal-header
+parts.jcb.com##._show.price-promise.add-to-popup.changelog.modal-popup > .modal-inner-wrap > .modal-footer
+parts.jcb.com##._show.price-promise.add-to-popup.changelog.modal-popup
+parts.jcb.com##.modals-overlay
