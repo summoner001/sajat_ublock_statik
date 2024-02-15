@@ -76,3 +76,5 @@ parts.jcb.com##.modals-overlay
 ||parts.jcb.com/media/wysiwyg/Click_and_Collect_carousel.jpg$image
 parts.jcb.com##.home-search
 parts.jcb.com##.page-footer
+parts.jcb.com##.global-delivery-message
+parts.jcb.com##.page-header-top > .content.header
