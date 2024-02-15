@@ -73,3 +73,6 @@ parts.jcb.com##._show.price-promise.add-to-popup.changelog.modal-popup > .modal-
 parts.jcb.com##._show.price-promise.add-to-popup.changelog.modal-popup > .modal-inner-wrap > .modal-footer
 parts.jcb.com##._show.price-promise.add-to-popup.changelog.modal-popup
 parts.jcb.com##.modals-overlay
+||parts.jcb.com/media/wysiwyg/Click_and_Collect_carousel.jpg$image
+parts.jcb.com##.home-search
+parts.jcb.com##.page-footer
