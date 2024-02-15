@@ -82,3 +82,5 @@ parts.jcb.com##.page-header-top > .content.header
 parts.jcb.com##.modal-footer
 parts.jcb.com##._show.add-to-popup.changelog.modal-popup > .modal-inner-wrap > .modal-header
 parts.jcb.com##._show.add-to-popup.changelog.modal-popup > .modal-inner-wrap > .modal-content
+parts.jcb.com##._show.add-to-popup.changelog.modal-popup
+parts.jcb.com##.special-checkbox.customer-machine > label
