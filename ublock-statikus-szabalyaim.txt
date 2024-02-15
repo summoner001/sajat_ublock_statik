@@ -78,3 +78,4 @@ parts.jcb.com##.home-search
 parts.jcb.com##.page-footer
 parts.jcb.com##.global-delivery-message
 parts.jcb.com##.page-header-top > .content.header
+||parts.jcb.com/static/version1697180838/frontend/JCB/default/en_GB/images/messages/cta-default-phone.png$image
