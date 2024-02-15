@@ -79,6 +79,6 @@ parts.jcb.com##.page-footer
 parts.jcb.com##.global-delivery-message
 parts.jcb.com##.page-header-top > .content.header
 ||parts.jcb.com/static/version1697180838/frontend/JCB/default/en_GB/images/messages/cta-default-phone.png$image
-parts.jcb.com##.page-wrapper
 parts.jcb.com##.modal-footer
 parts.jcb.com##._show.add-to-popup.changelog.modal-popup > .modal-inner-wrap > .modal-header
+parts.jcb.com##._show.add-to-popup.changelog.modal-popup > .modal-inner-wrap > .modal-content
