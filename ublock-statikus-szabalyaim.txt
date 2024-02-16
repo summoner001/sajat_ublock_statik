@@ -2,7 +2,7 @@
 ! Checksum: 
 ! Diff-Path: 
 ! Title: Saját statikus szűrő
-! Description: Saját statikus szűrő
+! Description: Summoner Filter
 ! Version: 1.0.0
 ! TimeUpdated: 2024-02-16
 ! Expires: 
@@ -43,7 +43,6 @@ scribd.com##._2sNAJW.GridContainer-module_wrapper__7Rx6L
 scribd.com##.hH8-Dc
 scribd.com##._1OkeM5.GridContainer-module_wrapper_7Rx6L-
 scribd.com##._1I3SdP
-! 2024-01-31 https://www.scribd.com
 scribd.com##.what_is_scribd_section.nav_item
 scribd.com##.desktop_layout.wrapper__doc_page_shared_recommender_list
 scribd.com##.recommender_title
