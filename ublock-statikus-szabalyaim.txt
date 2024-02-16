@@ -3,8 +3,8 @@
 ! Diff-Path: 
 ! Title: Saját statikus szűrő
 ! Description: Saját statikus szűrő
-! Version: 0.1.3
-! TimeUpdated: 2024-01-31
+! Version: 1.0.0
+! TimeUpdated: 2024-02-16
 ! Expires: 
 ! Homepage: https://github.com/summoner001/sajat_ublock_statik
 ! Github RAW: https://raw.githubusercontent.com/summoner001/sajat_ublock_statik/main/ublock-statikus-szabalyaim.txt
@@ -63,6 +63,10 @@ telex.hu##.article-topics:matches-path(/^/$/)
 telex.hu###__layout > .main--t > div:nth-of-type(3) > .main-container > .subcontainer > .cl-container > .layout > .layout__item:nth-of-type(13) > .layout14a.listing--otp.listing.block > .layout__content
 telex.hu###__layout > .main--t > div:nth-of-type(3) > .main-container > .subcontainer > .cl-container > .layout > .layout__item:nth-of-type(14) > .layout14b.listing--holdblog.listing.block
 telex.hu###__layout > .main--t > div:nth-of-type(3) > .main-container > .subcontainer > .cl-container > .layout > .layout__item:nth-of-type(15) > .layout14c.listing--bunteto.listing.block
+telex.hu##.support-box--freenews
+telex.hu###article-endbox-campaign-content
+telex.hu##.article-content.support-box
+telex.hu###donate-navigation-right-link
 
 ! 2024-02-10 https://www.openstreetmap.org
 www.openstreetmap.org##.p-3.welcome
