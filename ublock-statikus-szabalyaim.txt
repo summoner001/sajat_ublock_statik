@@ -1,10 +1,10 @@
 ![Adblock Plus 2.0]
 ! Checksum: 
 ! Diff-Path: 
-! Title: Saját statikus szűrő
-! Description: Summoner Filter
-! Version: 1.0.1
-! TimeUpdated: 2024-06-02
+! Title: Statikus szűrő (summoner)
+! Description: Summoner filter
+! Version: 1.0.2
+! TimeUpdated: 2024-09-08
 ! Expires: Never
 ! Homepage: https://github.com/summoner001/sajat_ublock_statik
 ! Github RAW: https://raw.githubusercontent.com/summoner001/sajat_ublock_statik/main/ublock-statikus-szabalyaim.txt
@@ -91,3 +91,6 @@ parts.jcb.com##._show.add-to-popup.changelog.modal-popup > .modal-inner-wrap > .
 parts.jcb.com##._show.add-to-popup.changelog.modal-popup > .modal-inner-wrap > .modal-content
 parts.jcb.com##._show.add-to-popup.changelog.modal-popup
 parts.jcb.com##.special-checkbox.customer-machine > label
+
+! 2024. szept. 8. https://www.scribd.com
+www.scribd.com##._8XfDEw.GridContainer-module_wrapper_7Rx6L-
