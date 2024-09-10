@@ -3,8 +3,8 @@
 ! Diff-Path: 
 ! Title: Statikus szűrő (summoner)
 ! Description: Summoner filter
-! Version: 1.0.2
-! TimeUpdated: 2024-09-08
+! Version: 1.0.3
+! TimeUpdated: 2024-09-10
 ! Expires: Never
 ! Homepage: https://github.com/summoner001/sajat_ublock_statik
 ! Github RAW: https://raw.githubusercontent.com/summoner001/sajat_ublock_statik/main/ublock-statikus-szabalyaim.txt
@@ -36,13 +36,6 @@ scribd.com###outer_page_3 > .promo_div > ._1qNr2d > ._3DzOla._140Ouo
 scribd.com##.text_layer:style(text-shadow: black 0px 0px 0px !important;)
 scribd.com##.promo
 scribd.com##.entered.success.flash
-scribd.com##._1kk3qd.GridContainer-module_wrapper_7Rx6L-
-scribd.com##._2vShLU._32uY1I
-scribd.com##._1Y6cNc.GridContainer-module_wrapper_7Rx6L-
-scribd.com##._2sNAJW.GridContainer-module_wrapper__7Rx6L
-scribd.com##.hH8-Dc
-scribd.com##._1OkeM5.GridContainer-module_wrapper_7Rx6L-
-scribd.com##._1I3SdP
 scribd.com##.what_is_scribd_section.nav_item
 scribd.com##.desktop_layout.wrapper__doc_page_shared_recommender_list
 scribd.com##.recommender_title
@@ -52,7 +45,6 @@ scribd.com##.full_container
 scribd.com##._35Otjh.Footer-module_wrapper__7jj0T
 scribd.com##.auto__doc_page_webpack_doc_page_preview_message.between_page_module.only_ie6_border.outer_page.page_missing_explanation
 scribd.com##._3_CeGO
-scribd.com##.Footer-module_wrapper__7jj0T
 
 ! 2024-01-27 telex.hu
 telex.hu##footer:matches-path(/^/$/)
@@ -92,5 +84,6 @@ parts.jcb.com##._show.add-to-popup.changelog.modal-popup > .modal-inner-wrap > .
 parts.jcb.com##._show.add-to-popup.changelog.modal-popup
 parts.jcb.com##.special-checkbox.customer-machine > label
 
-! 2024. szept. 8. https://www.scribd.com
-www.scribd.com##._8XfDEw.GridContainer-module_wrapper_7Rx6L-
+! 2024. szept. 10. https://ncore.pro
+ncore.pro##.torrent_lenyilo_tartalom > div.hr_stuff:nth-of-type(1)
+ncore.pro##div.hr_stuff:nth-of-type(2)
