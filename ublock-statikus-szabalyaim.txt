@@ -23,6 +23,8 @@ ncore.pro###pager_top > .premium
 ncore.pro###hessteg
 ncore.pro###pager_bottom > .premium
 ncore.pro###div_body_space
+! 2024. dec. 22. https://ncore.pro
+ncore.pro##.banner
 
 ! 2024-01-31 https://www.scribd.com
 scribd.com##._1X3Vjr._1A5tGG
