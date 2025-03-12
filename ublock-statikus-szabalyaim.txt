@@ -3,8 +3,8 @@
 ! Diff-Path: 
 ! Title: Statikus szűrő (summoner)
 ! Description: Summoner filter
-! Version: 1.0.3
-! TimeUpdated: 2024-09-10
+! Version: 1.0.4
+! TimeUpdated: 2025-03-12
 ! Expires: Never
 ! Homepage: https://github.com/summoner001/sajat_ublock_statik
 ! Github RAW: https://raw.githubusercontent.com/summoner001/sajat_ublock_statik/main/ublock-statikus-szabalyaim.txt
@@ -89,3 +89,9 @@ parts.jcb.com##.special-checkbox.customer-machine > label
 ! 2024. szept. 10. https://ncore.pro
 ncore.pro##.torrent_lenyilo_tartalom > div.hr_stuff:nth-of-type(1)
 ncore.pro##div.hr_stuff:nth-of-type(2)
+
+! 2025. márc. 12. https://telex.hu
+telex.hu##.modal--you__container
+
+! 2025. márc. 12. https://www.qwant.com
+www.qwant.com##._2p-Ie._1dHWW._3yn16._23lip._2loWJ
