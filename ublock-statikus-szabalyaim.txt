@@ -3,7 +3,7 @@
 ! Diff-Path: 
 ! Title: Statikus szűrő (summoner)
 ! Description: Summoner filter
-! Version: 1.0.4
+! Version: 1.0.5
 ! TimeUpdated: 2025-03-12
 ! Expires: Never
 ! Homepage: https://github.com/summoner001/sajat_ublock_statik
@@ -95,3 +95,10 @@ telex.hu##.modal--you__container
 
 ! 2025. márc. 12. https://www.qwant.com
 www.qwant.com##._2p-Ie._1dHWW._3yn16._23lip._2loWJ
+
+! 2025. márc. 21. https://telex.hu
+telex.hu##.modal--threat__container
+telex.hu##.pip
+telex.hu###remp-banner-35a398bb-b491-4f02-969c-fb41ca455e48 > .html-preview-text > .navigation__button
+telex.hu##.footer__app
+telex.hu##.footer__container
