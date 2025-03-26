@@ -1,10 +1,11 @@
 ![Adblock Plus 2.0]
 ! Checksum: 
 ! Diff-Path: 
-! Title: Statikus szűrő (summoner)
-! Description: Summoner filter
-! Version: 1.0.5
-! TimeUpdated: 2025-03-12
+! Title: Filtertechnika
+! Author: summoner
+! Description: Saját szűrőlista
+! Version: 1.1
+! TimeUpdated: 2025-03-26
 ! Expires: Never
 ! Homepage: https://github.com/summoner001/sajat_ublock_statik
 ! Github RAW: https://raw.githubusercontent.com/summoner001/sajat_ublock_statik/main/ublock-statikus-szabalyaim.txt
@@ -102,3 +103,6 @@ telex.hu##.pip
 telex.hu###remp-banner-35a398bb-b491-4f02-969c-fb41ca455e48 > .html-preview-text > .navigation__button
 telex.hu##.footer__app
 telex.hu##.footer__container
+telex.hu##.support__cta__content
+telex.hu###donate-navigation-right-link
+telex.hu##.navigation__button
