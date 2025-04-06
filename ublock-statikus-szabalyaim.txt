@@ -4,8 +4,8 @@
 ! Title: Filtertechnika
 ! Author: summoner
 ! Description: Saját szűrőlista
-! Version: 1.1.1
-! TimeUpdated: 2025-03-30
+! Version: 1.1.2
+! TimeUpdated: 2025-04-06
 ! Expires: Never
 ! Homepage: https://github.com/summoner001/sajat_ublock_statik
 ! Github RAW: https://raw.githubusercontent.com/summoner001/sajat_ublock_statik/main/ublock-statikus-szabalyaim.txt
@@ -111,3 +111,8 @@ telex.hu##.navigation__button
 ||nc-img.cdn.l7cache.com/bimages/9790551a968119e163c500316dd87177.gif$image
 ncore.pro##center:nth-of-type(1) > .banner
 ncore.pro##center:nth-of-type(2) > .banner
+
+! 2025. ápr. 6. https://ncore.pro
+ncore.pro##.infocsik
+ncore.pro###pager_top > .premium
+ncore.pro###infosav_adatok > .premium
